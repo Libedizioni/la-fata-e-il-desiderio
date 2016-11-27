@@ -1,3 +1,19 @@
 /**
  * Book custom styles
  */
+#a-carmen-azuela-in-memoriam {
+    h2 {
+        text-align: right;
+    }
+}
+
+ul li {
+    /* Dot color */
+    color: $dirt_black;
+}
+
+ul li p {
+    /* Text color */
+    color: $text_color;
+    padding-right: 0.5em;
+}

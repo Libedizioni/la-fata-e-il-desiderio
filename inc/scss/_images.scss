@@ -1,0 +1,24 @@
+///
+/// Images
+///
+
+#cover {
+    width: $page_width;
+    height: $page_height;
+    margin: 0;
+    padding: 0;
+
+    img {
+        text-align: center;
+        width: 100%;
+        height: auto;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+#publisher {
+    img {
+        // margin-top: 1.625em;
+    }
+}

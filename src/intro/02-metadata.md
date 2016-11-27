@@ -1,11 +1,11 @@
 # { #metadati .hidden - }
 
-{NEWLINE}
+<br/>
 
 
-{+SMALL+}
+<div class="small">
 
-{+COMPACT RIGHT+}
+<div class="compact alignright">
 
 © 2012 - **Elkar**
 
@@ -29,6 +29,8 @@ Associazione Culturale Libe Edizioni - Roma
 
 ISBN xxxxxxxxxxxxx
 
-{-COMPACT RIGHT-}
+</div>
 
-{-SMALL-}
+</div>
+
+

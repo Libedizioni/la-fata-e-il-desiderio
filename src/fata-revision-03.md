@@ -71,7 +71,7 @@ Arrivò in paese che era ancora piccolissima, in braccio a una donna misteriosa.
 
 </div>
 
-E siccome quella donna non parlava la lingua del paese e nessuno riuscì a farle dire una parola in più, alla piccola fu dato il nome *Sì*. La madre cominciò a lavorare in quel ristorante e, all'inizio, più di uno pensò che si trattasse di una strega infiltrata, perché preparava cibi esotici e buonissimi che nessuno aveva mai assaggiato prima. Tuttavia, siccome a tutti piacevano i suoi piatti e la donna non chiedeva nient'altro che lavorare in cucina dalla mattina alla sera, i proprietari del ristorante e i clienti smisero di farle domande. E fecero finta di non vederla. Inoltre, alla madre di Sì non mancava mai il sorriso sulle labbra e a bassa voce cantava sempre una canzone in una lingua strana. Se l'avessero osservata con più attenzione, si sarebbero resi conto che il suo corpo non proiettava ombra, ma anche questo non era evidente, perché di giorno si muoveva dove il sole, che avrebbe potuto tradirla, non batteva.
+<p class="linepush"> E siccome quella donna non parlava la lingua del paese e nessuno riuscì a farle dire una parola in più, alla piccola fu dato il nome *Sì*. La madre cominciò a lavorare in quel ristorante e, all'inizio, più di uno pensò che si trattasse di una strega infiltrata, perché preparava cibi esotici e buonissimi che nessuno aveva mai assaggiato prima. Tuttavia, siccome a tutti piacevano i suoi piatti e la donna non chiedeva nient'altro che lavorare in cucina dalla mattina alla sera, i proprietari del ristorante e i clienti smisero di farle domande. E fecero finta di non vederla. Inoltre, alla madre di Sì non mancava mai il sorriso sulle labbra e a bassa voce cantava sempre una canzone in una lingua strana. Se l'avessero osservata con più attenzione, si sarebbero resi conto che il suo corpo non proiettava ombra, ma anche questo non era evidente, perché di giorno si muoveva dove il sole, che avrebbe potuto tradirla, non batteva.</p>
 
 Ma, come succede in molti racconti di fate, le cose si complicarono. Per questo le storie delle fate sono così interessanti. All'improvviso, la madre di Sì morì. Quello fu davvero un triste evento!
 
@@ -79,7 +79,7 @@ Siccome nessuno sapeva chi fosse il padre della bambina, i proprietari del risto
 
 E il tempo passò.
 
-**Un secondo nella vita di una fata corrisponde a ore per noi, settimane per un passero, mesi per un'acciuga e anni per una formica.**
+<p class="linepush"> **Un secondo nella vita di una fata corrisponde a ore per noi, settimane per un passero, mesi per un'acciuga e anni per una formica.**</p>
 
 Ben presto si resero conto che Sì capiva molte lingue, benché non le usasse per comunicare con gli altri. Aveva i capelli neri e lisci degli asiatici e la pelle caramellata dei caraibici. Gli occhi azzurro chiaro degli slavi e l'elegante sinuosità delle donne africane. Appena divenne un po' più grande la misero a lavorare. Passare la scopa, poi lo strofinaccio. Pelare patate, sbattere le uova. Apparecchiare e sparecchiare. E sempre di nascosto: doveva fare tutto senza che nessuno la vedesse, perché i padroni sapevano bene che i bambini non possono lavorare finché non diventano grandi.
 
@@ -137,7 +137,7 @@ Questo disorientò un po' la fata, che era abituata a vedere la gente iniziare a
 
 </div>
 
-A quel punto la bambina assunse un'espressione che poche volte aveva avuto nella sua vita: chiuse gli occhi fino a trasformarli in due linee sottili come fanno i gatti e strinse forte le labbra come se stesse svolgendo mentalmente una difficilissima operazione matematica. Cioè si mise a pensare intensamente.
+<p class="linepush"> A quel punto la bambina assunse un'espressione che poche volte aveva avuto nella sua vita: chiuse gli occhi fino a trasformarli in due linee sottili come fanno i gatti e strinse forte le labbra come se stesse svolgendo mentalmente una difficilissima operazione matematica. Cioè si mise a pensare intensamente.</p>
 
 E ci mise un po' di tempo.
 
@@ -219,7 +219,7 @@ La fata continuava a rivolgerle tutti i giorni la stessa domanda:
 
 </div>
 
-E riceveva sempre la stessa risposta.
+<p class="linepush"> E riceveva sempre la stessa risposta.</p>
 
 A un certo punto, la fata credette davvero che Nori le avrebbe chiesto di esaudire un desiderio. Attorno a lei scoppiavano bombe, c'erano carri armati e spari ovunque e la situazione sembrava tragica per Nori ma, quando la fata apparve per aiutarla, non ebbe nessun dubbio: «Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo».
 
@@ -233,9 +233,9 @@ Nori lo aiutava a bere piccoli sorsi di acqua e con una pezza gli asciugava il s
 
 - Non stancarti. Mi chiamo Nori. E tu?
 
-<span id="__DdeLink__805_680625212" class="anchor"></span></div>
+</div>
 
-Il ragazzo non riusciva a rispondere e dovette fare un enorme sforzo per riuscire a controllare il dolore.
+<p class="linepush"> Il ragazzo non riusciva a rispondere e dovette fare un enorme sforzo per riuscire a controllare il dolore.</p>
 
 <div class="dialogue">
 
@@ -243,7 +243,7 @@ Il ragazzo non riusciva a rispondere e dovette fare un enorme sforzo per riuscir
 
 </div>
 
-E poi perse conoscenza.
+<p class="linepush"> E poi perse conoscenza.</p>
 
 Questo fu ciò che accadde. Ma Nori sapeva che solo le persone speciali possono rendersi conto di questo, quel ragazzo l’aveva conosciuta meglio di chiunque altro, e in così poco tempo; sentì che non voleva perderlo. Il suo cuore fece *crac*! I suoi occhi avrebbero conservato la fotografia di quel viso per sempre e le sembrò di essersene innamorata. Sensazione molto speciale per chiunque.
 
@@ -273,7 +273,7 @@ Fu così che, durante uno di questi programmi, quando un invitato stava racconta
 
 </div>
 
-Era Tomas, ovviamente.
+<p class="linepush"> Era Tomas, ovviamente.</p>
 
 # 7. IL VIAGGIO
 
@@ -313,7 +313,7 @@ E durante tutto questo tempo la fata continuò ad andare a trovare Nori tutti i 
 
 -   Quando si persero, una notte buia, in un bosco sconosciuto.
 
-Tuttavia Nori non le chiese mai di esaudire alcun desiderio. E la fata iniziò a rendersi conto che il tempo passava e lei non aveva ancora restituito il favore alla ragazza. Per questo, alcune volte si sentiva quasi arrabbiata con lei, cosa assai insolita per una fata.
+<p class="linepush"> Tuttavia Nori non le chiese mai di esaudire alcun desiderio. E la fata iniziò a rendersi conto che il tempo passava e lei non aveva ancora restituito il favore alla ragazza. Per questo, alcune volte si sentiva quasi arrabbiata con lei, cosa assai insolita per una fata.</p>
 
 # 8. UN PAESE CHIAMATO SPERANZA
 
@@ -325,7 +325,7 @@ Tomas se ne rese conto e pensò che in fondo non gli sarebbe costato molto scriv
 
 <div class="dialogue">
 
-- Oggi c'è una lettera di suo figlio. Signora Claudia.
+- Oggi c'è una lettera di suo figlio, Signora Claudia.
 
 - Ma io non ho figli...
 
@@ -333,7 +333,7 @@ Tomas se ne rese conto e pensò che in fondo non gli sarebbe costato molto scriv
 
 </div>
 
-Come avrebbero ricordato a lungo nel paese di Speranza, fu di Tomas l'idea di mettere una cassetta per le lettere di reclami positivi. Appena avuta l'idea, aveva preso un bidone e l'aveva trasformato in una specie di buca delle lettere, vi aveva dipinto delle stelle dorate e blu, e l'aveva collocato in mezzo alla piazza: *RECLAMI SIMPATICI.*
+<p class="linepush"> Come avrebbero ricordato a lungo nel paese di Speranza, fu di Tomas l'idea di mettere una cassetta per le lettere di reclami positivi. Appena avuta l'idea, aveva preso un bidone e l'aveva trasformato in una specie di buca delle lettere, vi aveva dipinto delle stelle dorate e blu, e l'aveva collocato in mezzo alla piazza: *RECLAMI SIMPATICI.*</p>
 
 I reclami gradevoli in realtà erano pochi. Così il Comune chiese a Tomas di non farsi venire troppe idee e di limitarsi a fare il suo lavoro. Lui capì ma continuò a scrivere e a mandare lettere a chi gli pareva, a quelli che credeva ne avessero bisogno.
 
@@ -357,7 +357,7 @@ Nemmeno Nori dovette aspettare a lungo prima di trovare un lavoro e fu costretta
 
 -   Servizio per progetti abbandonati e poi ripresi. Su appuntamento.
 
-E il tempo passò.
+<p class="linepush"> E il tempo passò.</p>
 
 **Un secondo nella vita di una fata corrisponde a ore per noi, settimane per un passero, mesi per un'acciuga e anni per una formica.**
 
@@ -395,7 +395,7 @@ La fata si recava tutti i giorni da Nori, tenace quanto lei, o forse ancora più
 
 </div>
 
-Gli insegnanti rimanevano sconcertati e di solito gli rispondevano non molto convinti, finché uno di loro gli disse:
+<p class="linepush"> Gli insegnanti rimanevano sconcertati e di solito gli rispondevano non molto convinti, finché uno di loro gli disse:</p>
 
 <div class="dialogue">
 
@@ -403,7 +403,7 @@ Gli insegnanti rimanevano sconcertati e di solito gli rispondevano non molto con
 
 </div>
 
-E così, per un periodo, Mor prese nota delle domande che faceva a se stesso:
+<p class="linepush"> E così, per un periodo, Mor prese nota delle domande che faceva a se stesso:</p>
 
 -   perché i rami hanno gli alberi;
 
@@ -417,7 +417,7 @@ E così, per un periodo, Mor prese nota delle domande che faceva a se stesso:
 
 -   perché il numero 8 ha due zero, uno sopra l'altro.
 
-E l'elenco si andò allungando. Così successe che a volte gli insegnanti si videro obbligati a dargli lezioni private per poter rispondere ad alcune delle sue domande:
+<p class="linepush"> E l'elenco si andò allungando. Così successe che a volte gli insegnanti si videro obbligati a dargli lezioni private per poter rispondere ad alcune delle sue domande:</p>
 
 <div class="dialogue">
 
@@ -433,7 +433,7 @@ E dovevano parlargli di Newton e della Legge di gravità.
 
 </div>
 
-E così gli parlavano della teoria dei segni del linguista Saussure.
+<p class="linepush"> E così gli parlavano della teoria dei segni del linguista Saussure.</p>
 
 Quando convocavano i genitori a colloquio, non sembrava che loro dessero eccessiva importanza a quell'insolita curiosità.
 
@@ -445,7 +445,7 @@ Nori sorrideva e rispondeva:
 
 </div>
 
-Il padre regalava ai professori un sorriso ancora più grande:
+<p class="linepush"> Il padre regalava ai professori un sorriso ancora più grande:</p>
 
 <div class="dialogue">
 
@@ -453,7 +453,7 @@ Il padre regalava ai professori un sorriso ancora più grande:
 
 </div>
 
-Un giorno, Mor si ammalò e nessuno capiva cosa avesse. Nori passò giorni e giorni accanto al letto del figlio senza muoversi; non c'era niente che potesse fargli abbassare la febbre. I medici non riuscivano a capire di che malattia si trattasse. La fata pensò che quel giorno sarebbero finite le sue visite a Nori. Ma lei, pur con qualche momento di esitazione, le continuò a rispondere: «Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo».
+<p class="linepush"> Un giorno, Mor si ammalò e nessuno capiva cosa avesse. Nori passò giorni e giorni accanto al letto del figlio senza muoversi; non c'era niente che potesse fargli abbassare la febbre. I medici non riuscivano a capire di che malattia si trattasse. La fata pensò che quel giorno sarebbero finite le sue visite a Nori. Ma lei, pur con qualche momento di esitazione, le continuò a rispondere: «Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo».</p>
 
 E il tempo passò.
 
@@ -493,7 +493,7 @@ E a Nori non mancarono certo i problemi e le difficoltà. Anzi! Oltre a essere t
 
 </div>
 
-L'umore di Tomas rese a Nori la vita più difficile, le sembrava che fosse cambiato, che non fosse più la stessa persona e che non la amasse più.
+<p class="linepush"> L'umore di Tomas rese a Nori la vita più difficile, le sembrava che fosse cambiato, che non fosse più la stessa persona e che non la amasse più.</p>
 
 Un giorno, mentre stava cercando di trovare una soluzione al problema, le apparve la fata di grande fretta. Sembrava un postino che doveva assolutamente consegnare un pacchetto che aveva in mano da anni.
 
@@ -503,7 +503,7 @@ Un giorno, mentre stava cercando di trovare una soluzione al problema, le apparv
 
 </div>
 
-Nori si prese un po' di tempo prima di rispondere, ma alla fine le disse con la stessa voce ferma di sempre: «Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo».
+<p class="linepush"> Nori si prese un po' di tempo prima di rispondere, ma alla fine le disse con la stessa voce ferma di sempre: «Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo».</p>
 
 E, come era già successo altre volte, fu la vita a darle quello che non aveva mai chiesto alla fata benefattrice. La fortuna bussò alla sua porta. All'improvviso, la direzione del vento cambiò.
 
@@ -520,6 +520,12 @@ Anche Nori intraprese nuovi progetti. Ancora una volta ebbe un'idea e volle mett
 Fin da piccola aveva avuto una facoltà speciale di percepire le cose, di vedere quello che gli altri di solito non vedono, di provare sensazioni che agli altri erano sconosciute. Per questo aveva quella particolare amicizia con la fata che tutti i giorni andava a trovarla. Ma, arrivata a quel punto della sua vita, decise che forse avrebbe potuto utilizzare le sue capacità per aiutare la gente a uscire dal paese di Disperazione o, per lo meno, a passarci il minor tempo possibile. Prese una sfera di cristallo da uno dei fondi più reconditi di un armadio, comprò dei Tarocchi e frugò in tutti gli angoli della casa finché trovò un piccolo pendolo, un cristallo di quarzo appeso a una catenina d'argento.
 
 Aveva dimenticato da tempo quelle pratiche, ma cominciò subito a esercitarsi senza farsi vedere – a differenza di quanto invece fanno con presunzione le streghe - quasi di nascosto, come se volesse mettere alla prova se stessa. Sapeva ormai abbastanza della vita e degli esseri umani ed era cosciente che quelle sue capacità potevano non piacere affatto, che la gente avrebbe voluto sapere più del necessario. Per questo ci mise un giorno intero a scrivere il cartello che annunciava il servizio che voleva offrire:
+
+<div class="aligncenter">
+
+![](inc/images/media/image1.jpeg){width="5.760416666666667in" height="5.208333333333333in"}
+
+</div>
 
 E aveva anche altre risposte, ben diverse da quelle che la gente riceveva da chiromanti e maghi di ogni tipo che, a differenza di lei, si facevano pagare.
 
@@ -541,7 +547,7 @@ Un giorno, ricevette la visita di un cliente molto speciale. Era molto piccolo, 
 
 </div>
 
-Si presentò dicendo che era un concorrente del famoso programma televisivo *Il* *Grande Aritmetico.*
+<p class="linepush"> Si presentò dicendo che era un concorrente del famoso programma televisivo *Il* *Grande Aritmetico.*</p>
 
 Le raccontò che gli erano sempre piaciute le operazioni aritmetiche, che le svolgeva senza nessuna difficoltà, senza carta e penna e ovviamente senza calcolatrice. In quella trasmissione, durante molte puntate, aveva risolto tutti i calcoli e le operazioni che gli avevano sottoposto e aveva accumulato parecchio denaro. Il prossimo programma sarebbe stato l'ultimo e, in caso di vittoria, avrebbe realizzato una vera fortuna.
 
@@ -557,7 +563,7 @@ Parlava a bassa voce e con un certo nervosismo, tanto che Nori non riuscì a ind
 
 </div>
 
-Era un buon motivo e a Nori venne voglia di aiutarlo. In qualche modo si sentì lusingata:
+<p class="linepush"> Era un buon motivo e a Nori venne voglia di aiutarlo. In qualche modo si sentì lusingata:</p>
 
 <div class="dialogue">
 
@@ -565,7 +571,7 @@ Era un buon motivo e a Nori venne voglia di aiutarlo. In qualche modo si sentì 
 
 </div>
 
-L'uomo sospirò.
+<p class="linepush"> L'uomo sospirò.</p>
 
 <div class="dialogue">
 
@@ -573,7 +579,7 @@ L'uomo sospirò.
 
 </div>
 
-Tanta sincerità commosse Nori e le venne ancora più voglia di aiutarlo. Estrasse il pendolo e iniziò a farlo ruotare sopra il palmo della mano del concorrente, intanto girò le carte dei Tarocchi sulle gambe per analizzarle meglio da sola e, alla fine, attaccò gli occhi alla sfera di cristallo, come se fosse un microscopio. Vedeva una lunga lista di numeri: somme, sottrazioni, moltiplicazioni e divisioni. Ma il risultato non era molto chiaro. Nemmeno Nori era molto sicura.
+<p class="linepush"> Tanta sincerità commosse Nori e le venne ancora più voglia di aiutarlo. Estrasse il pendolo e iniziò a farlo ruotare sopra il palmo della mano del concorrente, intanto girò le carte dei Tarocchi sulle gambe per analizzarle meglio da sola e, alla fine, attaccò gli occhi alla sfera di cristallo, come se fosse un microscopio. Vedeva una lunga lista di numeri: somme, sottrazioni, moltiplicazioni e divisioni. Ma il risultato non era molto chiaro. Nemmeno Nori era molto sicura.</p>
 
 Stava per rispondere all'uomo, quando avvertì la presenza della fata accanto a sé:
 
@@ -585,7 +591,7 @@ Stava per rispondere all'uomo, quando avvertì la presenza della fata accanto a 
 
 </div>
 
-Il concorrente del *Grande Aritmetico* fece una faccia molto sorpresa:
+<p class="linepush"> Il concorrente del *Grande Aritmetico* fece una faccia molto sorpresa:</p>
 
 <div class="dialogue">
 
@@ -595,7 +601,7 @@ Il concorrente del *Grande Aritmetico* fece una faccia molto sorpresa:
 
 </div>
 
-Nori non gli diede ulteriori spiegazioni e non andò avanti finché non vide che la fata, abbattuta, se ne andava.
+<p class="linepush"> Nori non gli diede ulteriori spiegazioni e non andò avanti finché non vide che la fata, abbattuta, se ne andava.</p>
 
 <div class="dialogue">
 
@@ -605,7 +611,7 @@ Nori non gli diede ulteriori spiegazioni e non andò avanti finché non vide che
 
 </div>
 
-Il giorno del concorso, Nori si mise attenta davanti al televisore.
+<p class="linepush"> Il giorno del concorso, Nori si mise attenta davanti al televisore.</p>
 
 Il presentatore sembrava più nervoso e preoccupato del concorrente:
 
@@ -619,7 +625,7 @@ Il presentatore sembrava più nervoso e preoccupato del concorrente:
 
 </div>
 
-Nori chiuse gli occhi e strinse un po' i denti. Le dispiaceva di non essere stata più precisa, di non essere riuscita a distinguere meglio nell'immagine il 3 dall'8!
+<p class="linepush"> Nori chiuse gli occhi e strinse un po' i denti. Le dispiaceva di non essere stata più precisa, di non essere riuscita a distinguere meglio nell'immagine il 3 dall'8!</p>
 
 Il buon uomo perse il concorso ma scrisse un biglietto a Nori, per ringraziarla dell'attenzione e invitandola a non preoccuparsi per ciò che era successo. Per Nori fu un brutto colpo, ma il dispiacere le passò appena parlò con suo figlio che stava lavorando come pagliaccio in Africa. Era lì per aiutare i bambini che vivevano nei campi profughi dove mancava la prima cosa indispensabile per vivere: la speranza. Il pagliaccio offriva loro il dono del sorriso, il famigliare più prossimo della speranza. Mor raccontò a Nori un paio di barzellette ma, soprattutto, le ricordò che si impara molto dagli sbagli.
 
@@ -645,7 +651,7 @@ E, per la prima volta da quando si erano conosciute, la fata cambiò la sua doma
 
 </div>
 
-E, per la prima volta da quando si conoscevano, in quel momento la fata sentì pena per Nori e non riuscì a trattenersi: trasformò quelle lacrime in cioccolatini che Nori si mangiò poco a poco, assaporando il conforto della dolcezza.
+<p class="linepush"> E, per la prima volta da quando si conoscevano, in quel momento la fata sentì pena per Nori e non riuscì a trattenersi: trasformò quelle lacrime in cioccolatini che Nori si mangiò poco a poco, assaporando il conforto della dolcezza.</p>
 
 Il lutto di Nori durò a lungo, ebbe bisogno di molto tempo.
 
@@ -665,7 +671,7 @@ A volte, le fate hanno un istante di tristezza, di debolezza, un momento di mali
 
 </div>
 
-La fata alzò gli occhi dal testo e rimase a guardare Nori, stupita:
+<p class="linepush"> La fata alzò gli occhi dal testo e rimase a guardare Nori, stupita:</p>
 
 <div class="dialogue">
 
@@ -675,7 +681,7 @@ La fata alzò gli occhi dal testo e rimase a guardare Nori, stupita:
 
 </div>
 
-La fata continuò a leggere:
+<p class="linepush"> La fata continuò a leggere:</p>
 
 <div class="monospace">
 
@@ -691,7 +697,7 @@ Ma riprendiamo il filo del racconto.
 
 </div>
 
-Questa volta, la fata si trattenne più del solito. Mentre leggeva quelle pagine, sul viso le sbocciò un sorriso misterioso. E il sorriso di una fata è sempre un avvenimento dalle conseguenze straordinarie ed eccezionali.
+<p class="linepush"> Questa volta, la fata si trattenne più del solito. Mentre leggeva quelle pagine, sul viso le sbocciò un sorriso misterioso. E il sorriso di una fata è sempre un avvenimento dalle conseguenze straordinarie ed eccezionali.</p>
 
 All'improvviso, iniziò a rendersi conto del passare del tempo. In quel momento non era vero che un secondo nella vita di una fata corrisponde a ore per noi, settimane per un passero, mesi per un'acciuga e anni per una formica.
 
@@ -707,7 +713,7 @@ Provò tante emozioni in un tempo così breve, che fu sul punto di avere un altr
 
 </div>
 
-E continuò a scrivere, di fretta, come se dovesse portare a termine un incarico e non le restasse molto tempo.
+<p class="linepush"> E continuò a scrivere, di fretta, come se dovesse portare a termine un incarico e non le restasse molto tempo.</p>
 
 Il giorno dopo, la fata si fece viva prima del solito. Nella sua vita di fata non aveva mai avuto tanta curiosità e interesse, non si era mai sentita tanto coinvolta.
 
@@ -719,7 +725,7 @@ Trovò una vecchietta dai capelli bianchi, che stava scrivendo le ultime righe d
 
 </div>
 
-E iniziò a leggere:
+<p class="linepush"> E iniziò a leggere:</p>
 
 <div class="monospace">
 
@@ -753,7 +759,7 @@ E quel sorriso fu il più enigmatico dei sorrisi che una fata avesse mai visto n
 
 </div>
 
-Quando ebbe finito di leggere queste righe, la fata alzò la testa e regalò a Nori un grande sorriso:
+<p class="linepush"> Quando ebbe finito di leggere queste righe, la fata alzò la testa e regalò a Nori un grande sorriso:</p>
 
 <div class="dialogue">
 

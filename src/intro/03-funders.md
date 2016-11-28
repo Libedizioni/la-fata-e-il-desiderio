@@ -10,7 +10,7 @@
 
 La traduzione di quest’opera è stata realizzata con il contributo di
 
-Instituto basco Etxepare - Etxepare Euskal Institutua
+Istituto Basco Etxepare - Etxepare Euskal Institutua
 <br/>
 <br/>
 ![logo-etxepare](/media/mare/DATI/0-WEB-DEVELOP-0/LIBEDIZIONI/EBOOKS_REPOS/la-fata-e-il-desiderio/inc/images/etxe-logo.jpg)

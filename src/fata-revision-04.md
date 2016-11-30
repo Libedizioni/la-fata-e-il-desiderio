@@ -109,7 +109,7 @@ Quando la fata ebbe quel momento di confusione e cadde sul tetto, la piccola Sì
 
 </div>
 
-La fata si stupì.
+<p class="linepush"> La fata si stupì.</p>
 
 <div class="dialogue">
 
@@ -119,7 +119,7 @@ La fata si stupì.
 
 </div>
 
-La bambina corrucciò la fronte.
+<p class="linepush"> La bambina corrucciò la fronte.</p>
 
 <div class="dialogue">
 
@@ -127,7 +127,7 @@ La bambina corrucciò la fronte.
 
 </div>
 
-Questo disorientò un po' la fata, che era abituata a vedere la gente iniziare a fare salti di gioia quando offriva loro i suoi poteri.
+<p class="linepush"> Questo disorientò un po' la fata, che era abituata a vedere la gente iniziare a fare salti di gioia quando offriva loro i suoi poteri.</p>
 
 <div class="dialogue">
 
@@ -425,7 +425,7 @@ La fata si recava tutti i giorni da Nori, tenace quanto lei, o forse ancora più
 
 </div>
 
-E dovevano parlargli di Newton e della Legge di gravità.
+<p class="linepush"> E dovevano parlargli di Newton e della Legge di gravità.</p>
 
 <div class="dialogue">
 

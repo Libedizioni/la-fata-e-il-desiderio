@@ -55,21 +55,21 @@ A tal punto che val la pena lasciare la fata appallottolata tra i panni asciutti
 
 Arrivò in paese che era ancora piccolissima, in braccio a una donna misteriosa. Si chiamava *Sì.*
 
-<div class="dialogue">
 
-- È tua figlia? - chiedevano alla donna.
 
-- Sì.
+\- È tua figlia? \- chiedevano alla donna.
 
-- Come si chiama?
+\- Sì.
 
-- Sì.
+\- Come si chiama?
 
-- Sì?
+\- Sì.
 
-- Sì.
+\- Sì?
 
-</div>
+\- Sì.
+
+
 
 <p class="linepush"> E siccome quella donna non parlava la lingua del paese e nessuno riuscì a farle dire una parola in più, alla piccola fu dato il nome *Sì*. La madre cominciò a lavorare in quel ristorante e, all'inizio, più di uno pensò che si trattasse di una strega infiltrata, perché preparava cibi esotici e buonissimi che nessuno aveva mai assaggiato prima. Tuttavia, siccome a tutti piacevano i suoi piatti e la donna non chiedeva nient'altro che lavorare in cucina dalla mattina alla sera, i proprietari del ristorante e i clienti smisero di farle domande. E fecero finta di non vederla. Inoltre, alla madre di Sì non mancava mai il sorriso sulle labbra e a bassa voce cantava sempre una canzone in una lingua strana. Se l'avessero osservata con più attenzione, si sarebbero resi conto che il suo corpo non proiettava ombra, ma anche questo non era evidente, perché di giorno si muoveva dove il sole, che avrebbe potuto tradirla, non batteva.</p>
 
@@ -91,51 +91,51 @@ Ma ritorniamo al magico momento in cui la fata cadde sopra il tetto, nello stess
 
 Quando la fata ebbe quel momento di confusione e cadde sul tetto, la piccola Sì, stupita, interruppe il suo lavoro per guardare meglio cosa fosse quel groviglio di panni, da cui sembrava provenissero dei lamenti. Poi aiutò la fata ad alzarsi.
 
-<div class="dialogue">
 
-- Chi sei? - le chiese Sì, quando vide che davanti a lei si stava rimettendo in piedi una fata che sembrava un fiore grande e bello, evanescente e brillante.
 
-- Sono una fata... e tu sei Sì. E non hai ombra, come tua madre.
+\- Chi sei? \- le chiese Sì, quando vide che davanti a lei si stava rimettendo in piedi una fata che sembrava un fiore grande e bello, evanescente e brillante.
 
-- È vero, ma non lo sa nessuno. Coma fai a conoscere il mio nome?
+\- Sono una fata... e tu sei Sì. E non hai ombra, come tua madre.
 
-- Perché tua madre, quando sei nata, ha lanciato un *Sììììììì* impressionante, e mi è piaciuto.
+\- È vero, ma non lo sa nessuno. Coma fai a conoscere il mio nome?
 
-- Lo sapevo – e un sorriso di allegria si aprì sul suo piccolo viso. – Dimmi cosa ti è successo?
+\- Perché tua madre, quando sei nata, ha lanciato un *Sììììììì* impressionante, e mi è piaciuto.
 
-- Ho avuto un attimo di distrazione, ma adesso sto bene – le rispose la fata come se non fosse accaduto niente.
+\- Lo sapevo – e un sorriso di allegria si aprì sul suo piccolo viso. – Dimmi cosa ti è successo?
 
-- Lo sapevo che un giorno sarebbe successo... - le disse Sì in modo sicuro.
+\- Ho avuto un attimo di distrazione, ma adesso sto bene – le rispose la fata come se non fosse accaduto niente.
 
-</div>
+\- Lo sapevo che un giorno sarebbe successo... \- le disse Sì in modo sicuro.
+
+
 
 <p class="linepush"> La fata si stupì.</p>
 
-<div class="dialogue">
 
-- Su questo tetto, praticamente sono sempre cadute delle streghe, con le loro scope, aspirapolvere o parapendio – la bambina continuò a spiegarle – a volte ci casca qualche angelo, ma è perché ha sbagliato una manovra... pensa, alcuni dicono che una volta è caduto un astronauta, ma io questo non l'ho visto. Io ho sempre voluto che cadesse una fata!
 
-- Devi sapere che sei molto fortunata perché mi hai aiutata, e perché posso esaudire il più grande dei tuoi desideri.
+\- Su questo tetto, praticamente sono sempre cadute delle streghe, con le loro scope, aspirapolvere o parapendio – la bambina continuò a spiegarle – a volte ci casca qualche angelo, ma è perché ha sbagliato una manovra... pensa, alcuni dicono che una volta è caduto un astronauta, ma io questo non l'ho visto. Io ho sempre voluto che cadesse una fata!
 
-</div>
+\- Devi sapere che sei molto fortunata perché mi hai aiutata, e perché posso esaudire il più grande dei tuoi desideri.
+
+
 
 <p class="linepush"> La bambina corrucciò la fronte.</p>
 
-<div class="dialogue">
 
-- Solo uno?
 
-</div>
+\- Solo uno?
+
+
 
 <p class="linepush"> Questo disorientò un po' la fata, che era abituata a vedere la gente iniziare a fare salti di gioia quando offriva loro i suoi poteri.</p>
 
-<div class="dialogue">
 
-- Sì, solo uno. Perché sono caduta una sola volta... - aggiunse la fata, vergognandosi un po' della sua avarizia.
 
-- Ah!
+\- Sì, solo uno. Perché sono caduta una sola volta... \- aggiunse la fata, vergognandosi un po' della sua avarizia.
 
-</div>
+\- Ah!
+
+
 
 <p class="linepush"> A quel punto la bambina assunse un'espressione che poche volte aveva avuto nella sua vita: chiuse gli occhi fino a trasformarli in due linee sottili come fanno i gatti e strinse forte le labbra come se stesse svolgendo mentalmente una difficilissima operazione matematica. Cioè si mise a pensare intensamente.</p>
 
@@ -145,15 +145,15 @@ E ci mise un po' di tempo.
 
 Siccome Sì aveva ascoltato molte fiabe nella grande cucina del ristorante *Covo delle Streghe,* sapeva che è rischioso ottenere subito quello che si desidera. In un modo o nell'altro, molti personaggi di quei racconti che avevano corso questo rischio finivano male, molto male, e niente e nessuno potevano renderli felici.
 
-<div class="dialogue">
 
-- Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo – le rispose la bambina.
 
-- Solo questo? - si meravigliò la fata.
+\- Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo – le rispose la bambina.
 
-- Sì. Solo questo.
+\- Solo questo? \- si meravigliò la fata.
 
-</div>
+\- Sì. Solo questo.
+
+
 
 # 4. PRIMA SÌ, DOPO NO
 
@@ -213,11 +213,11 @@ E il tempo passò.
 
 La fata continuava a rivolgerle tutti i giorni la stessa domanda:
 
-<div class="dialogue">
 
-- Hai qualche desiderio?
 
-</div>
+\- Hai qualche desiderio?
+
+
 
 <p class="linepush"> E riceveva sempre la stessa risposta.</p>
 
@@ -229,19 +229,19 @@ Si spaventò tanto che decise di cambiare lavoro, cosa che desiderava da tempo. 
 
 Nori lo aiutava a bere piccoli sorsi di acqua e con una pezza gli asciugava il sudore dalla fronte. Quando il ragazzo apriva gli occhi, vedeva quelli di Nori che lo guardavano e questo gli piaceva, ma non aveva la forza nemmeno per ringraziare. Nori gli disse amorevole:
 
-<div class="dialogue">
 
-- Non stancarti. Mi chiamo Nori. E tu?
 
-</div>
+\- Non stancarti. Mi chiamo Nori. E tu?
+
+
 
 <p class="linepush"> Il ragazzo non riusciva a rispondere e dovette fare un enorme sforzo per riuscire a controllare il dolore.</p>
 
-<div class="dialogue">
 
-- Tomas... - disse all'improvviso, e aggiunse: - perché non hai l'ombra?
 
-</div>
+\- Tomas... \- disse all'improvviso, e aggiunse: \- perché non hai l'ombra?
+
+
 
 <p class="linepush"> E poi perse conoscenza.</p>
 
@@ -265,13 +265,13 @@ La fata pensò che con quella ragazza non ci fosse niente da fare. Ma, un giorno
 
 Fu così che, durante uno di questi programmi, quando un invitato stava raccontando dei centauri e degli unicorni che aveva visto nel suo ultimo viaggio, all'improvviso si aprì la porta dello studio televisivo e a Nori accadde l'inimmaginabile: davanti a lei si presentò un giovane, con uno zaino sulle spalle e un cappello di paglia in testa. Non era un esploratore e nemmeno un pellegrino del Cammino di Santiago. Nessuno si aspettava il suo arrivo in studio, perché nessuno l'aveva chiamato per un'intervista. Teneva in mano un pezzo di carta stropicciato e rivolse a Nori un sorriso nuovo, che non aveva mai avuto prima, un sorriso molto particolare nella storia dei sorrisi tra gli innamorati.
 
-<div class="dialogue">
 
-- Perdonami, ho avuto bisogno di tempo per trovarti – disse a Nori, dando le spalle alle telecamere.
 
-- Mi è sembrata un'eternità – gli rispose Nori abbracciandolo.
+\- Perdonami, ho avuto bisogno di tempo per trovarti – disse a Nori, dando le spalle alle telecamere.
 
-</div>
+\- Mi è sembrata un'eternità – gli rispose Nori abbracciandolo.
+
+
 
 <p class="linepush"> Era Tomas, ovviamente.</p>
 
@@ -323,15 +323,15 @@ Tomas trovò subito impiego come postino. Divenne il postino più bello e più s
 
 Tomas se ne rese conto e pensò che in fondo non gli sarebbe costato molto scrivere lui stesso quelle lettere, infilarle in una busta, mettere un francobollo e scrivere l'indirizzo di una di quelle nonnine che avevano così bisogno di lui.
 
-<div class="dialogue">
 
-- Oggi c'è una lettera di suo figlio, Signora Claudia.
 
-- Ma io non ho figli...
+\- Oggi c'è una lettera di suo figlio, Signora Claudia.
 
-- Non ne ha avuti fino a oggi. Ma d'ora in poi sì, e io tutte le settimane le porterò una sua lettera.
+\- Ma io non ho figli...
 
-</div>
+\- Non ne ha avuti fino a oggi. Ma d'ora in poi sì, e io tutte le settimane le porterò una sua lettera.
+
+
 
 <p class="linepush"> Come avrebbero ricordato a lungo nel paese di Speranza, fu di Tomas l'idea di mettere una cassetta per le lettere di reclami positivi. Appena avuta l'idea, aveva preso un bidone e l'aveva trasformato in una specie di buca delle lettere, vi aveva dipinto delle stelle dorate e blu, e l'aveva collocato in mezzo alla piazza: *RECLAMI SIMPATICI.*</p>
 
@@ -379,29 +379,29 @@ Nacque un maschietto, che di giorno assomigliava alla madre e di notte al padre.
 
 La fata si recava tutti i giorni da Nori, tenace quanto lei, o forse ancora più testarda, ma Nori pensava solo a suo figlio. Oltre a essere il più bello di tutti, fu anche molto precoce. Iniziò a gattonare prima del normale e ben presto si mise in piedi e iniziò a camminare e a parlare, e nessuno capiva come fosse possibile; ma, soprattutto, prestava un'attenzione particolare a ogni cosa, a ciò che si muoveva come a ciò che stava fermo. Alle cose evidenti e a quelle che sembravano nascoste; in modo particolare al viso delle persone che si avvicinavano a lui, come se volesse scattare loro una fotografia. Aveva lo stesso sorriso simpatico del padre e lo stesso spirito d'iniziativa. Ma anche le idee creative della madre e il suo sguardo misterioso. A scuola si fece subito molti amici, benché a volte lo trovassero tutto solo, pensieroso ma con aria felice, come chi abbandona ciò che sta facendo perché ha avuto un'idea geniale. All'inizio i suoi insegnanti si stupivano per quel suo atteggiamento.
 
-<div class="dialogue">
 
-- Cosa fai lì tutto solo?
 
-- Penso.
+\- Cosa fai lì tutto solo?
 
-- A cosa?
+\- Penso.
 
-- A molte cose.
+\- A cosa?
 
-- Dimmene una.
+\- A molte cose.
 
-- Non so, chiedo a me stesso perché le arance sono rotonde e le banane no. Perché il numero 11 ha due uno; perché ho due gambe, due piedi, due braccia, due orecchie e solo un naso…
+\- Dimmene una.
 
-</div>
+\- Non so, chiedo a me stesso perché le arance sono rotonde e le banane no. Perché il numero 11 ha due uno; perché ho due gambe, due piedi, due braccia, due orecchie e solo un naso…
+
+
 
 <p class="linepush"> Gli insegnanti rimanevano sconcertati e di solito gli rispondevano non molto convinti, finché uno di loro gli disse:</p>
 
-<div class="dialogue">
 
-- Mi sembra un'ottima cosa pensare, Mor. È molto importante farsi delle domande. Alcune di esse hanno una risposta chiara, ma può succedere che altre non ce l'abbiano. Ti propongo una cosa: se ti vengono in mente delle domande, scrivile su un foglio; solo questo. E forse, un giorno, troveremo le risposte.
 
-</div>
+\- Mi sembra un'ottima cosa pensare, Mor. È molto importante farsi delle domande. Alcune di esse hanno una risposta chiara, ma può succedere che altre non ce l'abbiano. Ti propongo una cosa: se ti vengono in mente delle domande, scrivile su un foglio; solo questo. E forse, un giorno, troveremo le risposte.
+
+
 
 <p class="linepush"> E così, per un periodo, Mor prese nota delle domande che faceva a se stesso:</p>
 
@@ -419,19 +419,19 @@ La fata si recava tutti i giorni da Nori, tenace quanto lei, o forse ancora più
 
 <p class="linepush"> E l'elenco si andò allungando. Così successe che a volte gli insegnanti si videro obbligati a dargli lezioni private per poter rispondere ad alcune delle sue domande:</p>
 
-<div class="dialogue">
 
-- Perché le mele cadono a terra?
 
-</div>
+\- Perché le mele cadono a terra?
+
+
 
 <p class="linepush"> E dovevano parlargli di Newton e della Legge di gravità.</p>
 
-<div class="dialogue">
 
-- Perché chiamiamo il tavolo tavolo e non *crucru*?
 
-</div>
+\- Perché chiamiamo il tavolo tavolo e non *crucru*?
+
+
 
 <p class="linepush"> E così gli parlavano della teoria dei segni del linguista Saussure.</p>
 
@@ -439,19 +439,19 @@ Quando convocavano i genitori a colloquio, non sembrava che loro dessero eccessi
 
 Nori sorrideva e rispondeva:
 
-<div class="dialogue">
 
-- Perché assomiglia a suo padre…
 
-</div>
+\- Perché assomiglia a suo padre…
+
+
 
 <p class="linepush"> Il padre regalava ai professori un sorriso ancora più grande:</p>
 
-<div class="dialogue">
 
-- È uguale a sua madre…
 
-</div>
+\- È uguale a sua madre…
+
+
 
 <p class="linepush"> Un giorno, Mor si ammalò e nessuno capiva cosa avesse. Nori passò giorni e giorni accanto al letto del figlio senza muoversi; non c'era niente che potesse fargli abbassare la febbre. I medici non riuscivano a capire di che malattia si trattasse. La fata pensò che quel giorno sarebbero finite le sue visite a Nori. Ma lei, pur con qualche momento di esitazione, le continuò a rispondere: «Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo».</p>
 
@@ -487,21 +487,21 @@ Ma Nori non le chiese mai di esaudire nessun desiderio, eccetto quello che torna
 
 E a Nori non mancarono certo i problemi e le difficoltà. Anzi! Oltre a essere triste perché vedeva Tomas incapace di uscire dal paese di Disperazione, anche lei aveva un problema e una difficoltà personale per continuare a vivere nel paese di Speranza. Sembrava che la biblioteca a cui aveva dedicato tanto lavoro e tante energie si stesse svuotando. La parola più utilizzata era «crisi», che andava bene per qualsiasi cosa. La gente passava giornate intere chiusa in casa. Sembrava che andare ad ascoltare o leggere racconti non avesse più senso, e nemmeno scrivere lettere difficili, o che non ci fosse più bisogno di dare consigli agli innamorati, di fare nuovi progetti o di sfogarsi; perché tutti pensavano che i canali televisivi o Internet offrissero molto di più, senza bisogno di uscire di casa. Nori era una donna forte, e aveva ben chiaro cosa voleva dalla vita. Così si impegnò con tutte le sue forze a scrivere libri e a preparare conferenze per conciliare il modo di vivere di quei due paesi: apparentemente Speranza e Disperazione erano contrapposti ma, forse, non era davvero così. Aveva anche un blog molto visitato: [*www.esseoessesperanza.com*](http://www.esseoessesperanza.com/).
 
-<div class="dialogue">
 
-- Bisogna vedere l'aspetto positivo di questa crisi, dobbiamo lottare per non perderci d'animo – diceva e ripeteva a un Tomas sempre più scontroso e imbronciato.
 
-</div>
+\- Bisogna vedere l'aspetto positivo di questa crisi, dobbiamo lottare per non perderci d'animo – diceva e ripeteva a un Tomas sempre più scontroso e imbronciato.
+
+
 
 <p class="linepush"> L'umore di Tomas rese a Nori la vita più difficile, le sembrava che fosse cambiato, che non fosse più la stessa persona e che non la amasse più.</p>
 
 Un giorno, mentre stava cercando di trovare una soluzione al problema, le apparve la fata di grande fretta. Sembrava un postino che doveva assolutamente consegnare un pacchetto che aveva in mano da anni.
 
-<div class="dialogue">
 
-- Cosa vuoi che ti doni? Qual è il tuo desiderio?
 
-</div>
+\- Cosa vuoi che ti doni? Qual è il tuo desiderio?
+
+
 
 <p class="linepush"> Nori si prese un po' di tempo prima di rispondere, ma alla fine le disse con la stessa voce ferma di sempre: «Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo».</p>
 
@@ -523,7 +523,7 @@ Aveva dimenticato da tempo quelle pratiche, ma cominciò subito a esercitarsi se
 
 <div class="aligncenter">
 
-![](inc/images/media/image1.jpeg){width="5.760416666666667in" height="5.208333333333333in"}
+![image](inc/images/media/image1.jpeg){width="5.760416666666667in" height="5.208333333333333in"}
 
 </div>
 
@@ -541,11 +541,11 @@ E il tempo passò.
 
 Un giorno, ricevette la visita di un cliente molto speciale. Era molto piccolo, magro e ben vestito. Si muoveva senza fare rumore, come se non volesse disturbare nemmeno le mosche, e quando si avvicinò a Nori, si tolse il cappello e lo tenne appoggiato sul petto con le mani:
 
-<div class="dialogue">
 
-- Mi hanno parlato di Lei e ho bisogno del suo aiuto. Mi hanno detto che Lei aiuta nei casi di insicurezza, e io in questo momento ho un grande dubbio.
 
-</div>
+\- Mi hanno parlato di Lei e ho bisogno del suo aiuto. Mi hanno detto che Lei aiuta nei casi di insicurezza, e io in questo momento ho un grande dubbio.
+
+
 
 <p class="linepush"> Si presentò dicendo che era un concorrente del famoso programma televisivo *Il* *Grande Aritmetico.*</p>
 
@@ -553,87 +553,87 @@ Le raccontò che gli erano sempre piaciute le operazioni aritmetiche, che le svo
 
 Parlava a bassa voce e con un certo nervosismo, tanto che Nori non riuscì a indirizzare la conversazione su altri temi.
 
-<div class="dialogue">
 
-- Domani sarà l'ultimo programma, se vinco raddoppio la quantità di denaro ottenuta finora e potrei smettere di lavorare. Vorrei sapere se, con i suoi poteri contro l'incertezza, mi può aiutare – sembrava che l'uomo dovesse recuperare le forze per terminare la frase -. Vorrei che Lei mi pronosticasse il risultato. Non voglio correre rischi, mi fido delle mie capacità ma, in questo momento, ho bisogno di sicurezza.
 
-- Ah! Maledetta sicurezza! - sospirò Nori. E quando stava per rispondergli che lei non si occupava di quel tipo di insicurezza, l'uomo l'anticipò:
+\- Domani sarà l'ultimo programma, se vinco raddoppio la quantità di denaro ottenuta finora e potrei smettere di lavorare. Vorrei sapere se, con i suoi poteri contro l'incertezza, mi può aiutare – sembrava che l'uomo dovesse recuperare le forze per terminare la frase \-. Vorrei che Lei mi pronosticasse il risultato. Non voglio correre rischi, mi fido delle mie capacità ma, in questo momento, ho bisogno di sicurezza.
 
-- So che di solito Lei non si occupa di queste cose, ma ho bisogno di quel denaro e non per me. Vorrei creare delle borse di studio per ragazzi e ragazze che, come è successo a me, non possono andare a scuola. In modo che a loro non manchi quello che io non ho avuto: la scuola, gli studi universitari, l'opportunità di andare avanti…
+\- Ah! Maledetta sicurezza! \- sospirò Nori. E quando stava per rispondergli che lei non si occupava di quel tipo di insicurezza, l'uomo l'anticipò:
 
-</div>
+\- So che di solito Lei non si occupa di queste cose, ma ho bisogno di quel denaro e non per me. Vorrei creare delle borse di studio per ragazzi e ragazze che, come è successo a me, non possono andare a scuola. In modo che a loro non manchi quello che io non ho avuto: la scuola, gli studi universitari, l'opportunità di andare avanti…
+
+
 
 <p class="linepush"> Era un buon motivo e a Nori venne voglia di aiutarlo. In qualche modo si sentì lusingata:</p>
 
-<div class="dialogue">
 
-- Mi dà una grande responsabilità – gli rispose un po' timorosa. - Non sarebbe meglio che Lei si fidasse delle sue straordinarie capacità?
 
-</div>
+\- Mi dà una grande responsabilità – gli rispose un po' timorosa. \- Non sarebbe meglio che Lei si fidasse delle sue straordinarie capacità?
+
+
 
 <p class="linepush"> L'uomo sospirò.</p>
 
-<div class="dialogue">
 
-- Mi creda, ci ho pensato molto prima di venire da Lei. La sola idea di sbagliare mi paralizza e, se devo essere sincero, preferisco attribuire l'errore a qualcun altro piuttosto che a me stesso. Non potrei perdonarmelo.
 
-</div>
+\- Mi creda, ci ho pensato molto prima di venire da Lei. La sola idea di sbagliare mi paralizza e, se devo essere sincero, preferisco attribuire l'errore a qualcun altro piuttosto che a me stesso. Non potrei perdonarmelo.
+
+
 
 <p class="linepush"> Tanta sincerità commosse Nori e le venne ancora più voglia di aiutarlo. Estrasse il pendolo e iniziò a farlo ruotare sopra il palmo della mano del concorrente, intanto girò le carte dei Tarocchi sulle gambe per analizzarle meglio da sola e, alla fine, attaccò gli occhi alla sfera di cristallo, come se fosse un microscopio. Vedeva una lunga lista di numeri: somme, sottrazioni, moltiplicazioni e divisioni. Ma il risultato non era molto chiaro. Nemmeno Nori era molto sicura.</p>
 
 Stava per rispondere all'uomo, quando avvertì la presenza della fata accanto a sé:
 
-<div class="dialogue">
 
-- Potrei esaudire questo desiderio...
 
-- Desidero che torni domani a chiedermelo…
+\- Potrei esaudire questo desiderio...
 
-</div>
+\- Desidero che torni domani a chiedermelo…
+
+
 
 <p class="linepush"> Il concorrente del *Grande Aritmetico* fece una faccia molto sorpresa:</p>
 
-<div class="dialogue">
 
-- Ma le ho appena detto che domani è l'ultima puntata del concorso!
 
-- Non si preoccupi, non stavo parlando con Lei.
+\- Ma le ho appena detto che domani è l'ultima puntata del concorso!
 
-</div>
+\- Non si preoccupi, non stavo parlando con Lei.
+
+
 
 <p class="linepush"> Nori non gli diede ulteriori spiegazioni e non andò avanti finché non vide che la fata, abbattuta, se ne andava.</p>
 
-<div class="dialogue">
 
-- Le ho detto prima che nemmeno io sono sicura. Vedo un mucchio di somme, sottrazioni, moltiplicazioni e divisioni, ma non vedo chiaramente il risultato finale. Sono indecisa tra 38 e 88.
 
-- Lei ha ragione, la sicurezza assoluta è molto difficile. Ed è importante che Lei me lo ricordi. La ringrazio molto, comunque, per la sua attenzione e per il suo interesse.
+\- Le ho detto prima che nemmeno io sono sicura. Vedo un mucchio di somme, sottrazioni, moltiplicazioni e divisioni, ma non vedo chiaramente il risultato finale. Sono indecisa tra 38 e 88.
 
-</div>
+\- Lei ha ragione, la sicurezza assoluta è molto difficile. Ed è importante che Lei me lo ricordi. La ringrazio molto, comunque, per la sua attenzione e per il suo interesse.
+
+
 
 <p class="linepush"> Il giorno del concorso, Nori si mise attenta davanti al televisore.</p>
 
 Il presentatore sembrava più nervoso e preoccupato del concorrente:
 
-<div class="dialogue">
 
-- Lei ha cinque secondi per dire il risultato di questa operazione: sei per nove meno quindici, diviso tre per nove diviso tre, meno uno, più cinquanta.
 
-- 38! - rispose l'uomo senza nessuna esitazione.
+\- Lei ha cinque secondi per dire il risultato di questa operazione: sei per nove meno quindici, diviso tre per nove diviso tre, meno uno, più cinquanta.
 
-- Peccato! Che peccato! Il risultato è... 88! Si è dimenticato forse di aggiungere cinquanta! - e benché il presentatore sembrasse davvero dispiaciuto, era evidente il sollievo per non aver perso quel capitale annunciato fino a pochi minuti prima.
+\- 38! \- rispose l'uomo senza nessuna esitazione.
 
-</div>
+\- Peccato! Che peccato! Il risultato è... 88! Si è dimenticato forse di aggiungere cinquanta! \- e benché il presentatore sembrasse davvero dispiaciuto, era evidente il sollievo per non aver perso quel capitale annunciato fino a pochi minuti prima.
+
+
 
 <p class="linepush"> Nori chiuse gli occhi e strinse un po' i denti. Le dispiaceva di non essere stata più precisa, di non essere riuscita a distinguere meglio nell'immagine il 3 dall'8!</p>
 
 Il buon uomo perse il concorso ma scrisse un biglietto a Nori, per ringraziarla dell'attenzione e invitandola a non preoccuparsi per ciò che era successo. Per Nori fu un brutto colpo, ma il dispiacere le passò appena parlò con suo figlio che stava lavorando come pagliaccio in Africa. Era lì per aiutare i bambini che vivevano nei campi profughi dove mancava la prima cosa indispensabile per vivere: la speranza. Il pagliaccio offriva loro il dono del sorriso, il famigliare più prossimo della speranza. Mor raccontò a Nori un paio di barzellette ma, soprattutto, le ricordò che si impara molto dagli sbagli.
 
-<div class="dialogue">
 
-- Mamma – le disse affettuoso – forse è arrivato il momento di tornare a una vita più tranquilla, non credi?
 
-</div>
+\- Mamma – le disse affettuoso – forse è arrivato il momento di tornare a una vita più tranquilla, non credi?
+
+
 
 # 12. LA STORIA DELLA FATA E IL DESIDERIO
 
@@ -643,13 +643,13 @@ Appena ricevuta la spaventosa notizia, Nori notò la presenza della fata accanto
 
 E, per la prima volta da quando si erano conosciute, la fata cambiò la sua domanda:
 
-<div class="dialogue">
 
-- Desideri che io ritorni domani a farti la stessa domanda?
 
-- Sì... - le ripose Nori, mentre grosse lacrime le rigavano le guance.
+\- Desideri che io ritorni domani a farti la stessa domanda?
 
-</div>
+\- Sì... \- le ripose Nori, mentre grosse lacrime le rigavano le guance.
+
+
 
 <p class="linepush"> E, per la prima volta da quando si conoscevano, in quel momento la fata sentì pena per Nori e non riuscì a trattenersi: trasformò quelle lacrime in cioccolatini che Nori si mangiò poco a poco, assaporando il conforto della dolcezza.</p>
 
@@ -673,13 +673,13 @@ A volte, le fate hanno un istante di tristezza, di debolezza, un momento di mali
 
 <p class="linepush"> La fata alzò gli occhi dal testo e rimase a guardare Nori, stupita:</p>
 
-<div class="dialogue">
 
-- Stai scrivendo la mia storia? – le chiese commossa.
 
-- Non conosco la tua storia, sto solo raccontando la mia – le rispose Nori, a bassa voce.
+\- Stai scrivendo la mia storia? – le chiese commossa.
 
-</div>
+\- Non conosco la tua storia, sto solo raccontando la mia – le rispose Nori, a bassa voce.
+
+
 
 <p class="linepush"> La fata continuò a leggere:</p>
 
@@ -705,13 +705,13 @@ In quel momento, la fata era una lettrice, nient'altro, ciò che stava vivendo l
 
 Provò tante emozioni in un tempo così breve, che fu sul punto di avere un altro istante di malinconia, di perdere conoscenza o di non essere più quella di prima. Forse per questo si stupì di se stessa quando, con un po' di presunzione, come se fosse arrabbiata, fece un'insolita domanda:
 
-<div class="dialogue">
 
-- Hai pensato al finale della tua storia? Spero sia un finale felice, perché io ho sempre voluto esaudire un tuo desiderio, anche se tu hai sempre rifiutato il mio dono.
 
-- Torna domani a chiedermi cosa desidero – le rispose Nori, senza aggiungere altro.
+\- Hai pensato al finale della tua storia? Spero sia un finale felice, perché io ho sempre voluto esaudire un tuo desiderio, anche se tu hai sempre rifiutato il mio dono.
 
-</div>
+\- Torna domani a chiedermi cosa desidero – le rispose Nori, senza aggiungere altro.
+
+
 
 <p class="linepush"> E continuò a scrivere, di fretta, come se dovesse portare a termine un incarico e non le restasse molto tempo.</p>
 
@@ -719,11 +719,11 @@ Il giorno dopo, la fata si fece viva prima del solito. Nella sua vita di fata no
 
 Trovò una vecchietta dai capelli bianchi, che stava scrivendo le ultime righe di un racconto iniziato molto tempo prima, con molta tranquillità.
 
-<div class="dialogue">
 
-- Vediamo che finale hai scritto per il tuo racconto! - le disse la fata, strappandole di mano con la forza quell'ultima pagina
 
-</div>
+\- Vediamo che finale hai scritto per il tuo racconto! \- le disse la fata, strappandole di mano con la forza quell'ultima pagina
+
+
 
 <p class="linepush"> E iniziò a leggere:</p>
 
@@ -737,15 +737,15 @@ Le fate non conoscono il passare del tempo, sanno che esiste ma pensano che sia 
 
 Finché arrivò il giorno in cui la fata dovette farle la solita domanda, sapendo che sarebbe stata l'ultima volta:
 
-<div class="dialogue">
 
-- Cosa vuoi che ti doni? Qual è il tuo desiderio?
 
-- Come vedi, alla fine, non ti ho chiesto di esaudire nessun desiderio – le disse Nori.
+\- Cosa vuoi che ti doni? Qual è il tuo desiderio?
 
-- E invece sì, me l'hai chiesto. Volevi continuare a desiderare qualcosa; questo è stato il tuo desiderio.
+\- Come vedi, alla fine, non ti ho chiesto di esaudire nessun desiderio – le disse Nori.
 
-</div>
+\- E invece sì, me l'hai chiesto. Volevi continuare a desiderare qualcosa; questo è stato il tuo desiderio.
+
+
 
 La fata e Nori rimasero a guardarsi.
 
@@ -761,11 +761,11 @@ E quel sorriso fu il più enigmatico dei sorrisi che una fata avesse mai visto n
 
 <p class="linepush"> Quando ebbe finito di leggere queste righe, la fata alzò la testa e regalò a Nori un grande sorriso:</p>
 
-<div class="dialogue">
 
-- Grazie – le disse – è un bel finale per la nostra storia.
 
-</div>
+\- Grazie – le disse – è un bel finale per la nostra storia.
+
+
 
 <p class="alignright"> Mariasun Landa 2012</p>
 

@@ -21,6 +21,10 @@ process_markdown_edits() {
             echo "[+] now processing " "$SELECTED"
             # process heading attributes
             sed -i 's/\\#/#/g' "$SELECTED"
+            # fix missing image alt-text
+            # @TODO fix auto generate with pandoc & libreoffice and
+            #       make alt-text meaningful by using docx image attributes
+            sed -i 's/!\[\]/!\[image\]/g' "$SELECTED"
             # -------------------------- #
             #     Document Structure     #
             # -------------------------- #
@@ -31,15 +35,17 @@ process_markdown_edits() {
             # process blockquote tag first, as it
             # differs from other tags
             sed -i 's/{QUOTE}/>/g' "$SELECTED"
-            # search replace closing divs
-            #sed -i -e 's/{-LEFT-}\|{-CENTER-}\|{-RIGHT-}\|{-MIDDLE-}\|{-SMALLER-}\|{-SMALL-}\|{-BIG-}\|{-BIGGER-}\|{-COMPACT-}\|{-CITE-}/<\/div>/g' "$SELECTED"
+            # search and escape list items inside dialogue sections
+            sed -i '/{+DIALOGUE+}/,/{-DIALOGUE-}/s/-/\\\-/g' "$SELECTED"
+            # search and remove DIALOGUE docx tag
+            sed -i 's/{+DIALOGUE+}//g; s/{\\-DIALOGUE\\-}//g' "$SELECTED"
             # search and replace vertically centered divs
             sed -i -e '/{+MIDDLE/{;/+}/s/$/\n<div class="middle">/; s/MIDDLE/table/;}' "$SELECTED"
             sed -i 's/{-MIDDLE-}/<\/div>\n<\/div>/g;' "$SELECTED"
             # search and replace css classes between {: :} delimiters
             sed -i '/{:/,/:}/s/LEFT/alignleft/g; s/CENTER/aligncenter/g; s/RIGHT/alignright/g; s/CITE/citation/g; s/SMALLER/smaller/g; s/SMALL/small/g; s/BIG/big/g; s/BIGGER/bigger/g; s/+TAB/linepush/g; s/-TAB/linepull/g' "$SELECTED"
             # search and replace css classes between {+ +} delimiters
-            sed -i '/{+/,/+}/s/LEFT/alignleft/g; s/CENTER/aligncenter/g; s/RIGHT/alignright/g; s/CITE/citation/g; s/SMALLER/smaller/g; s/SMALL/small/g; s/BIG/big/g; s/BIGGER/bigger/g; s/COMPACT/compact/g; s/BLOCK/no-break/g; s/MONO/monospace/g; s/DIALOGUE/dialogue/g' "$SELECTED"
+            sed -i '/{+/,/+}/s/LEFT/alignleft/g; s/CENTER/aligncenter/g; s/RIGHT/alignright/g; s/CITE/citation/g; s/SMALLER/smaller/g; s/SMALL/small/g; s/BIG/big/g; s/BIGGER/bigger/g; s/COMPACT/compact/g; s/BLOCK/no-break/g; s/MONO/monospace/g' "$SELECTED"
             # search for opening and closing {: :} and append
             # a closing html paragraph tag to end of line
             sed -i -e '/{:/{;/:}/s/$/<\/p>/;}' "$SELECTED"

@@ -13,14 +13,17 @@ LATEX_ENGINE='xelatex'
 #LATEX_ENGINE='lualatex'
 #LATEX_ENGINE='pdflatex'
 PDF="$BUILD/pdf/$BOOKNAME.pdf"
+EPUB_SRC="$BUILD/epub/$BOOKNAME.epub"
+EPUB="$BUILD/pdf/$BOOKNAME.epub"
+ZIP="$BUILD/pdf/$BOOKNAME.zip"
 
 # remove previous build version
 clean() {
     rm -f "$PDF"
 }
 
-# build pdf with pandoc
-build_pdf() {
+# build pdf with LaTex Pandoc template
+build_pdf_latex() {
     echo "[+] now building pdf..."
     mkdir -p "$BUILD/pdf"
     # --variable mainfont='Raleway-Regular' \
@@ -28,6 +31,45 @@ build_pdf() {
     pandoc --toc --toc-depth="$TOC_DEPTH" --latex-engine=$LATEX_ENGINE \
     --template="$TEMPLATE_PDF" \
     -o "$PDF" "$TITLE" $SOURCE
+}
+
+# build pdf with Calibre ebook-convert cli
+build_pdf_calibre() {
+    echo "[+] now building pdf..."
+    mkdir -p "$BUILD/pdf"
+
+    cp "$EPUB_SRC" "$EPUB"
+    mv "$EPUB" "$ZIP"
+    unzip -d "$BUILD/pdf/$BOOKNAME" "$ZIP"
+    sed -i "s/$ISBN_EPUB/$ISBN_PDF/g" "$BUILD/pdf/$BOOKNAME/ch002.xhtml"
+    sed -i "s/$ISBN_EPUB/$ISBN_PDF/g" "$BUILD/pdf/$BOOKNAME/content.opf"
+    sed -i "s/$ISBN_EPUB/$ISBN_PDF/g" "$BUILD/pdf/$BOOKNAME/toc.ncx"
+    rm "$ZIP"
+    cd "$BUILD/pdf/$BOOKNAME"
+    zip -r "../$BOOKNAME.zip" *
+    cd ../../..
+    mv "$ZIP" "$EPUB"
+    rm -rf "$BUILD/pdf/$BOOKNAME"
+
+    ebook-convert "$EPUB" "$PDF" \
+    --unit millimeter \
+    --custom-size 120x170 \
+    --preserve-cover-aspect-ratio \
+    --base-font-size 10 \
+    --margin-bottom 20 \
+    --margin-left 30 \
+    --margin-right 30 \
+    --margin-top 25 \
+    --authors "$AUTHOR" \
+    --book-producer "$PUBLISHER" \
+    --isbn "$ISBN_PDF" \
+    --comments "$DESCRIPTION" \
+    --language ita \
+    --pubdate 2016 \
+    --publisher "$PUBLISHER" \
+    --tags "$TAGS"
+
+    rm "$EPUB"
 }
 
 # report script info and execution time
@@ -45,6 +87,7 @@ report() {
 # get it done!
 time_start
 clean
-build_pdf
+# build_pdf_latex
+build_pdf_calibre
 time_end
 report

@@ -4,8 +4,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 <div class="compact smaller no-break">
 
 La traduzione di quest’opera è stata realizzata con il contributo di

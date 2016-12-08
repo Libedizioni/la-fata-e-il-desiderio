@@ -29,8 +29,11 @@
     "logo": "/media/mare/DATI/0-WEB-DEVELOP-0/LIBEDIZIONI/EBOOKS_REPOS/la-fata-e-il-desiderio/inc/images/logo.jpg",
     "repository": "https://github.com/Libedizioni",
     "email": "edizioni-libe@gmail.com",
-    "isbn_epub": "9788894154375",
-    "isbn_pdf": "9788894154399",
+    "isbn": {
+      "epub": "9788894154375",
+      "pdf": "9788894154399",
+      "mobi": ""
+    },
     "copyright": "Associazione Culturale Libe Edizioni - Roma",
     "language": "ita",
     "license": "Creative Commons Attribution-ShareAlike 4.0 International - CC By-Sa 4.0",

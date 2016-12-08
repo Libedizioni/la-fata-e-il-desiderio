@@ -41,8 +41,15 @@ module.exports = {
 			'METADATA=<%= book.metadata %>',
 			'TITLE=<%= book.booktitle %>',
 			'TEMPLATE_EPUB=<%= book.templates.epub %>',
+            // Set proper ISBN for epub file format
+            'sed -i "s|BOOK_ISBN|ISBN <%= book.publisher.isbn.epub %>|g" "<%= pkg.dir.inc %>/title.yaml"',
+            'sed -i "s|BOOK_ISBN|<%= book.publisher.isbn.epub %>|g" "<%= pkg.dir.inc %>/metadata.xml"',
 			// Source and run build-epub.sh
-			'. ./inc/scripts/build-epub.sh'
+			'. ./inc/scripts/build-epub.sh',
+            // Reset BOOK_ISBN tag to initial state
+            'echo "Reset BOOK_ISBN tag to initial state for EPUB"',
+            'sed -i "s|ISBN <%= book.publisher.isbn.epub %>|BOOK_ISBN|g" "<%= pkg.dir.inc %>/title.yaml"',
+            'sed -i "s|<%= book.publisher.isbn.epub %>|BOOK_ISBN|g" "<%= pkg.dir.inc %>/metadata.xml"'
 		].join(' && ')
 	},
 	build_html: {
@@ -68,8 +75,23 @@ module.exports = {
 			'INTRO=$( find "<%= book.path.intro %>" -maxdepth 1 -type f -name "*.md" -printf "%p " )',
 			'SOURCE=$( find "<%= book.path.src %>" -type f -name "*.md" -printf "%p " )',
 			'TEMPLATE_PDF=<%= book.templates.pdf %>',
+			// Additional fields needed by Calibre ebook-convert
+			'AUTHOR="<%= book.author.name %> <%= book.author.surname %>"',
+			'PUBLISHER="<%= book.publisher.name %>"',
+			'ISBN_EPUB=<%= book.publisher.isbn.epub %>',
+			'ISBN_PDF=<%= book.publisher.isbn.pdf %>',
+			'DESCRIPTION="<%= book.description %>"',
+			'TAGS="<%= book.tags.one %>,<%= book.tags.two %>,<%= book.tags.three %>,<%= book.tags.four %>,<%= book.tags.five %>,<%= book.tags.six %>"',
+			// Convert either with LaTex or Calibre
+			'ENGINE=Calibre',
+            // Set proper ISBN for pdf file format
+            'sed -i "s|BOOK_ISBN|ISBN <%= book.publisher.isbn.pdf %>|g" "<%= pkg.dir.inc %>/title.yaml"',
+            'sed -i "s|BOOK_ISBN|<%= book.publisher.isbn.pdf %>|g" "<%= pkg.dir.inc %>/metadata.xml"',
 			// Source and run build-pdf.sh
-			'. ./inc/scripts/build-pdf.sh'
+			'. ./inc/scripts/build-pdf.sh',
+            // Reset BOOK_ISBN tag to initial state
+            'sed -i "s|ISBN <%= book.publisher.isbn.pdf %>|BOOK_ISBN|g" "<%= pkg.dir.inc %>/title.yaml"',
+            'sed -i "s|<%= book.publisher.isbn.pdf %>|BOOK_ISBN|g" "<%= pkg.dir.inc %>/metadata.xml"'
 		].join(' && ')
 	},
 	test_dependencies: {
@@ -99,7 +121,6 @@ module.exports = {
 					 s|COVER_BY|<%= book.editor.cover.name %>|g; \
 					 s|DESIGN|<%= book.editor.design %>|g; \
 					 s|LAYOUT|<%= book.editor.layout %>|g; \
-					 s|BOOK_ISBN|ISBN <%= book.publisher.isbn %>|g; \
 					 s|DATE|$(date +\"%Y\")|g; \
 					 s|COPYRIGHT|<%= book.publisher.copyright %>|g" "<%= book.path.intro %>/"*.md'
 		].join(' && ')
@@ -118,7 +139,6 @@ module.exports = {
 			'sed -i "s|PUBLISHER|<%= book.publisher.name %>|g" "<%= pkg.dir.inc %>/metadata.xml"',
 			'sed -i "s|LANGUAGE|<%= book.publisher.language %>|g" "<%= pkg.dir.inc %>/metadata.xml"',
 			'sed -i "s|DATE|$(date +\"%Y\")|g" "<%= pkg.dir.inc %>/metadata.xml"',
-			'sed -i "s|BOOK_ISBN|<%= book.publisher.isbn %>|g" "<%= pkg.dir.inc %>/metadata.xml"',
 			'sed -i "s|BOOK_DESCRIPTION|<%= book.description %>|g" "<%= pkg.dir.inc %>/metadata.xml"',
 			'sed -i "s|COPYRIGHT|<%= book.publisher.copyright %>|g" "<%= pkg.dir.inc %>/metadata.xml"',
 			'sed -i "s|LICENSE|<%= book.publisher.license %>|g" "<%= pkg.dir.inc %>/metadata.xml"',
@@ -174,7 +194,7 @@ module.exports = {
 			'echo "- Ebook design: **<%= book.editor.design %>**" >> "README.md"',
 			'echo "- Ebook layout: **<%= book.editor.layout %>**" >> "README.md"',
 			'echo "- Publisher: **<%= book.publisher.name %>**" >> "README.md"',
-			'echo "- ISBN: **<%= book.publisher.isbn %>**" >> "README.md"',
+			'echo "- ISBN: **<%= book.publisher.isbn.epub %>**" >> "README.md"',
 			'echo "" >> "README.md"',
 			'echo "**©** _$(date +\"%Y\")_ | <%= book.publisher.copyright %> | [<%= book.license %>](<%= book.publisher.legalcode %>)" >> "README.md"',
 			'echo "" >> "README.md"',

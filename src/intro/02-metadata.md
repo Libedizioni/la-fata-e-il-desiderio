@@ -27,7 +27,7 @@ ___
 
 Associazione Culturale Libe Edizioni - Roma
 
-ISBN 9788894154375
+BOOK_ISBN
 
 </div>
 

@@ -19,7 +19,6 @@ body {
     font-family: $base_font;
     font-size: $base_font_size;
     line-height: $base_line_height;
-    // margin: 5%;
     text-align: justify;
 }
 
@@ -173,46 +172,6 @@ blockquote {
 
 
 /**
-* Dialogue lists formatting
-*
-* @link https://css-tricks.com/snippets/html/glyphs/
-* @link https://css-tricks.com/pseudo-element-roundup/
-*/
-/*
-.dialogue {
-    ul {
-        padding-left: 1.3em;
-    }
-
-    li {
-        list-style-type: none;
-
-        &:nth-child( even ) {
-            // font-style: italic;
-        }
-    }
-
-    p,
-    li:only-child {
-        &:before,
-        &:after {
-            // font-size: 1.25em;
-            // line-height: 1em;
-        }
-
-        &:before {
-        //    content: '- \201C \2009';
-           content: '- ';
-        }
-
-        &:after {
-        //    content: ' \201D';
-        }
-    }
-}
-*/
-
-/**
  * Page and Sections Layout
  */
 .odd {
@@ -245,7 +204,6 @@ blockquote {
     display: table;
     width: 100%;
     height: $page_height;
-    // page-break-before: always;
 }
 
 .middle {

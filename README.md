@@ -8,7 +8,9 @@ _La Fata e il Desiderio è un bel racconto breve di Mariasun Landa tradotto dall
 - Ebook design: **Aloña Intxaurrandieta**
 - Ebook layout: **Marcello Liberato**
 - Publisher: **Libe Edizioni**
-- ISBN: **xxxxxxxxxxxxx**
+- ISBN: _epub -_ **9788894154375**
+        _pdf -_ **9788894154399**
+        _mobi -_ **-**
 
 **©** _2016_ | Associazione Culturale Libe Edizioni - Roma | [CC By-Sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
@@ -17,4 +19,3 @@ Original title: _**Maitagarria eta desioa**_ published by _**Elkar**_ in _2012_
 ---
 
 ###### _This ebook was generated with [Ebook Generator](https://github.com/Libedizioni/ebook-generator) - by [Codice Ovvio](https://github.com/codiceovvio) | [Libe Edizioni](https://github.com/Libedizioni)._
-

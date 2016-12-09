@@ -1,3 +1,10 @@
+**v1.0.1**
+
+- remove caption from inline images but keep alt-text
+- fix missing ISBN in README.md
+- remove unused scss styles for dialogues
+- update book version tag
+
 **v1.0.0**
 
 - rebuild all book source

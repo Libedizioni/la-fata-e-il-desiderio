@@ -24,7 +24,7 @@ build_epub() {
 
     # build the ebook with defined parameters
     pandoc --smart \
-        --read=markdown \
+        --read=markdown-implicit_figures \
         --write=epub \
         --self-contained \
         --epub-chapter-level=1 \

@@ -1,3 +1,9 @@
+**v1.0.2**
+
+- remove extra newlines in metadata & funders
+- better format for TODO's & FIXME
+- make chapter titles lowercase
+
 **v1.0.1**
 
 - remove caption from inline images but keep alt-text

@@ -2,7 +2,7 @@
  * Produce images at different sizes for responsive websites.
  *
  * @link https://github.com/andismith/grunt-responsive-images/
- * @TODO update responsive images sizes to create
+ * @TODO update responsive images sizes to create for epub3 format
  */
 module.exports = {
 	cover: {

@@ -22,8 +22,7 @@ process_markdown_edits() {
             # process heading attributes
             sed -i 's/\\#/#/g' "$SELECTED"
             # fix missing image alt-text
-            # @TODO fix auto generate with pandoc & libreoffice and
-            #       make alt-text meaningful by using docx image attributes
+            # @FIXME fix auto generate with pandoc & libreoffice and make alt-text meaningful by using docx image attributes
             sed -i 's/!\[\]/!\[image\]/g' "$SELECTED"
             # -------------------------- #
             #     Document Structure     #

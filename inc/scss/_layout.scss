@@ -57,6 +57,7 @@ p {
 p + p {
     margin-top: 0;
     text-indent: 1.3em;
+    // @TODO check newpage indent (occurring when reading in google play books)
 }
 
 hr {

@@ -21,7 +21,7 @@ Ma sarà meglio iniziare dall'inizio.
 
 E finire alla fine.
 
-# 1. L'ORA DELLE FATE
+# 1. L'ora delle fate
 
 Per cominciare dall'inizio, la cosa migliore sarà parlare delle fate e delle loro misteriose abitudini.
 
@@ -33,7 +33,7 @@ Ecco, questa storia inizia proprio in uno di questi momenti.
 
 Una volta, una fata fu colta da uno di questi istanti di malinconia mentre volava sopra un paese senza nome. Non so se stesse andando da Nord a Sud o da Est a Ovest, ma quell'istante di malinconia la sorprese volando e questo può essere molto rischioso per qualunque fata. Infatti la fata cadde. Patapum! dall'alto in basso, dal cielo alla terra, dall'aria al suolo.
 
-Ma non spaventatevi, non le successe nulla.
+<p class="linepush"> Ma non spaventatevi, non le successe nulla.</p>
 
 Di solito, le fate non si fanno male perché non hanno peso, e per chi non ha peso niente è pesante.
 
@@ -51,7 +51,7 @@ La bambina era una persona speciale, molto speciale.
 
 A tal punto che val la pena lasciare la fata appallottolata tra i panni asciutti e parlare di quella bambina che lavorava tutto il giorno mentre i suoi coetanei erano a scuola o giocavano dove, come e quanto volevano.
 
-# 2. ORIGINI MISTERIOSE
+# 2. Origini misteriose
 
 Arrivò in paese che era ancora piccolissima, in braccio a una donna misteriosa. Si chiamava *Sì.*
 
@@ -87,7 +87,7 @@ Nemmeno Sì proiettava ombra, però nessuno se ne accorgeva.
 
 Ma ritorniamo al magico momento in cui la fata cadde sopra il tetto, nello stesso istante in cui la bambina si apprestava a ritirare i panni asciutti.
 
-# 3. L'INCONTRO CON LA FATA
+# 3. L'incontro con la fata
 
 Quando la fata ebbe quel momento di confusione e cadde sul tetto, la piccola Sì, stupita, interruppe il suo lavoro per guardare meglio cosa fosse quel groviglio di panni, da cui sembrava provenissero dei lamenti. Poi aiutò la fata ad alzarsi.
 
@@ -97,7 +97,7 @@ Quando la fata ebbe quel momento di confusione e cadde sul tetto, la piccola Sì
 
 \- Sono una fata... e tu sei Sì. E non hai ombra, come tua madre.
 
-\- È vero, ma non lo sa nessuno. Coma fai a conoscere il mio nome?
+<p class="linepush"> \- È vero, ma non lo sa nessuno. Coma fai a conoscere il mio nome?</p>
 
 \- Perché tua madre, quando sei nata, ha lanciato un *Sììììììì* impressionante, e mi è piaciuto.
 
@@ -155,7 +155,7 @@ Siccome Sì aveva ascoltato molte fiabe nella grande cucina del ristorante *Covo
 
 
 
-# 4. PRIMA SÌ, DOPO NO
+# 4. Prima sì, dopo no
 
 La prima cosa che fece Sì fu cambiarsi il nome. Decise che si sarebbe chiamata *No*. Poi, riflettendoci meglio e ritenendo che quel nuovo nome fosse difficile o poco piacevole da pronunciare, pensò fosse preferibile mascherarlo un po' senza però cambiarlo completamente. Così decise che si sarebbe chiamata *Nori*. Decise anche di andarsene da quel ristorante dove lavorava quasi come una schiava, e anche di:
 
@@ -201,7 +201,7 @@ E siccome, durante tutto questo tempo, Nori continuò a ricevere la visita quoti
 
 Tuttavia riceveva sempre la stessa risposta: «Ciò che più desidero è che tu ritorni, domani, a chiedermelo di nuovo» .
 
-# 5. GUERRA E AMORE
+# 5. Guerra e amore
 
 In un primo momento, vista la sua abilità con le mani, pensò di fare il chirurgo o l'elettricista ma, alla fine, decise di studiare giornalismo perché le interessava tutto quello che succedeva nel mondo e perché voleva capire il mondo.
 
@@ -209,7 +209,7 @@ Iniziò a partecipare ad alcune trasmissioni radiofoniche dove poteva intervista
 
 E il tempo passò.
 
-**Un secondo nella vita di una fata corrisponde a ore per noi, settimane per un passero, mesi per un'acciuga e anni per una formica.**
+<p class="linepush"> **Un secondo nella vita di una fata corrisponde a ore per noi, settimane per un passero, mesi per un'acciuga e anni per una formica.**</p>
 
 La fata continuava a rivolgerle tutti i giorni la stessa domanda:
 
@@ -239,7 +239,7 @@ Nori lo aiutava a bere piccoli sorsi di acqua e con una pezza gli asciugava il s
 
 
 
-\- Tomas... \- disse all'improvviso, e aggiunse: \- perché non hai l'ombra?
+<p class="linepush"> \- Tomas... \- disse all'improvviso, e aggiunse: \- perché non hai l'ombra?</p>
 
 
 
@@ -249,7 +249,7 @@ Questo fu ciò che accadde. Ma Nori sapeva che solo le persone speciali possono 
 
 Quando dovettero separarsi, il ragazzo venne portato via in ambulanza urgentemente, privo di sensi, molto grave. A quel punto Nori prese l'iniziativa e fece qualcosa che non aveva mai fatto prima: scrisse il nome del paese al quale stava tornando su un pezzetto di carta e lo infilò nel taschino della camicia di Tomas, perché non voleva perderlo e non voleva nemmeno che il ragazzo si dimenticasse di lei.
 
-# 6. TOMAS
+# 6. Tomas
 
 E il tempo passò.
 
@@ -275,7 +275,7 @@ Fu così che, durante uno di questi programmi, quando un invitato stava racconta
 
 <p class="linepush"> Era Tomas, ovviamente.</p>
 
-# 7. IL VIAGGIO
+# 7. Il viaggio
 
 Il programma televisivo fu interrotto.
 
@@ -315,7 +315,7 @@ E durante tutto questo tempo la fata continuò ad andare a trovare Nori tutti i 
 
 <p class="linepush"> Tuttavia Nori non le chiese mai di esaudire alcun desiderio. E la fata iniziò a rendersi conto che il tempo passava e lei non aveva ancora restituito il favore alla ragazza. Per questo, alcune volte si sentiva quasi arrabbiata con lei, cosa assai insolita per una fata.</p>
 
-# 8. UN PAESE CHIAMATO SPERANZA
+# 8. Un paese chiamato Speranza
 
 Alla fine arrivarono a Speranza, affittarono una piccola casa fuori dal paese e iniziarono a cercare lavoro, perché avevano finito i risparmi.
 
@@ -365,7 +365,7 @@ La fata continuò ad andare da Nori tutti i giorni. Sapeva che sia lei che Tomas
 
 Finché un giorno rimase incinta.
 
-# 9. MOR
+# 9. Mor
 
 Furono mesi felici per Nori e Tomas. Passavano molto tempo a pensare come sarebbe stato quel bambino che stava per venire al mondo.
 
@@ -469,7 +469,7 @@ Quando ebbe l'età per scegliere una professione, gli insegnanti non furono in g
 
 E così Mor decise di fare il clown.
 
-# 10. LA CRISI
+# 10. La crisi
 
 Mor divenne grande e, mentre viveva la sua vita lontano dalla casa dei genitori, attorno a Nori e a Tomas cambiarono molte cose.
 
@@ -513,7 +513,7 @@ Tomas non iniziò a fare salti di gioia perché pensò che, essendo ormai abbast
 
 E tornò a essere quello di prima. Forse anche più assennato.
 
-# 11. INSICUREZZA
+# 11. Insicurezza
 
 Anche Nori intraprese nuovi progetti. Ancora una volta ebbe un'idea e volle metterla in pratica. Aprì uno studio di consulenza per curare l'insicurezza, malattia che in poco tempo si era incredibilmente diffusa. Era rivolto agli abitanti di Disperazione e a tutti coloro che si lamentavano del futuro senza godersi il presente. A quelli che erano sempre preoccupati, per loro stessi, per i loro figli, per il marito, la moglie, la casa, il cane, il braccio, la gamba, i risparmi, la vita... perché l'insicurezza è qualcosa di vischioso, come una macchia sull'abito dell'anima che bisogna pulire subito. E in commercio non c'erano smacchiatori di questo tipo. Bisognava inventare qualcosa e Nori ci si dedicò, o per lo meno ci provò. A modo suo, ovviamente!
 
@@ -635,7 +635,7 @@ Il buon uomo perse il concorso ma scrisse un biglietto a Nori, per ringraziarla 
 
 
 
-# 12. LA STORIA DELLA FATA E IL DESIDERIO
+# 12. La storia della fata e il desiderio
 
 Tomas morì all'improvviso, gli si fermò il cuore, senza che se ne accorgesse e senza alcun preavviso. Successe in montagna, mentre stava raccogliendo funghi, cosa che faceva appena poteva. Lo trovarono alcuni escursionisti e lo portarono in paese come poterono. Anche Nori morì, ma non del tutto, come si muore quando qualcuno che amiamo se ne va. Bisogna dire che, ancora prima di ricevere la tragica notizia, lei aveva avvertito qualcosa, perché aveva smesso di sentire dentro di sé i battiti del cuore di Tomas. Anche Mor credette che sarebbe morta per il dolore e, pensando che sua madre avesse bisogno di lui, decise di prendere il primo aereo che l'avrebbe portato da lei.
 

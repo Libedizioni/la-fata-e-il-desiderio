@@ -1,8 +1,5 @@
 # { #metadati .hidden - }
 
-<br/>
-
-
 <div class="small">
 
 <div class="compact alignright">

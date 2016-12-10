@@ -1,8 +1,5 @@
 # { #metadati .hidden - }
 
-{NEWLINE}
-
-
 {+SMALL+}
 
 {+COMPACT RIGHT+}

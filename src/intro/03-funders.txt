@@ -2,8 +2,6 @@
 {NEWLINE}
 {NEWLINE}
 {NEWLINE}
-{NEWLINE}
-{NEWLINE}
 {+COMPACT SMALLER BLOCK+}
 
 La traduzione di quest’opera è stata realizzata con il contributo di
